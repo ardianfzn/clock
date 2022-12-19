@@ -1,0 +1,15 @@
+body {
+    background: black;
+}
+
+.Clock{
+    color: #e70000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family: "Roboto";
+    letter-spacing: 7px;
+    font-weight: bold;
+}
